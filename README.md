@@ -2,6 +2,8 @@
 Exchange File Format, written in secured Rustlang!
 
 The name comes from "to be rough"!
+But i would say, because of that it is written in Rustlang and universally applicable and a file format,
+Why not, "R for Rust" "U for Universal" & "F for File"
 It should say or mean that it is hard, strong & flexible!
 
 ## GOALS
