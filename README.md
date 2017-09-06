@@ -24,3 +24,5 @@ It should say or mean that it is hard, strong & flexible!
 The idear, is to have one Main System to get different Files!
 So we could build and learn from the past, but seriously i dont want a new XML based file!
 So, u have the chance to came up with somekind totally new!
+
+Without thinking too much of other Files out there, we could create one file to get different Files, so there is just the *.ruf or *.3ruf File and maybe a soundfile *.aruf, *.rufa, *.sruf, or whatever it is should be called!
