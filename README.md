@@ -14,3 +14,13 @@ It should say or mean that it is hard, strong & flexible!
   to OpenCollada aso.
 - 3D Exchange (*.3ruf, pronounced "three rough")
  
+## FILE SUPPORT
+
+- OpenCollada
+- OpenDocument (*.odf, *.odt)
+- Fountain (*.fountain)
+
+## Maybe it makes his own Formats?
+The idear, is to have one Main System to get different Files!
+So we could build and learn from the past, but seriously i dont want a new XML based file!
+So, u have the chance to came up with somekind totally new!
